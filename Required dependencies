@@ -1,0 +1,5 @@
+required dependencies for the code to run 
+
+1 - install girljava.jpg in the download pasta
+2 - install brand_hello_kitty_icon_158867.ico in the download pasta
+3 - hange the file paths on lines 38 and 50 to respectively 38 - brand_hello_kitty_icon_158867.ico and 50 girljava.jpg.
